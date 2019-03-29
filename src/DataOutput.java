@@ -24,7 +24,5 @@ public class DataOutput {
         System.out.printf("Rounded (three decimal places): %.3f\n", measure);
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f", measure);
-
-
     }
 }
