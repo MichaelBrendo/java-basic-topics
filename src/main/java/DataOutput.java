@@ -1,8 +1,11 @@
+import org.junit.Test;
+
 import java.util.Locale;
 
 public class DataOutput {
 
-    public static void main(String[] args) {
+    @Test
+    public void dataOutputPrintln(){
         String product1 = "Computer";
         String product2 = "Office desk";
 
@@ -25,4 +28,5 @@ public class DataOutput {
         Locale.setDefault(Locale.US);
         System.out.printf("US decimal point: %.3f", measure);
     }
+
 }
