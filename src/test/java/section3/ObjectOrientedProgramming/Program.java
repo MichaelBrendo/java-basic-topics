@@ -1,9 +1,9 @@
-package ObjectOrientedProgramming;
+package section3.ObjectOrientedProgramming;
 
 import java.util.Locale;
 import java.util.Scanner;
 
-public class CalculateTheAreaOfTriangle {
+public class Program {
 
     public static void main(String[] args) {
 

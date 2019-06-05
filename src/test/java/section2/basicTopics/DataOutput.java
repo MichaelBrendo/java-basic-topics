@@ -1,4 +1,4 @@
-package basicTopics;
+package section2.basicTopics;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming;
+package section3.ObjectOrientedProgramming;
 
 public class Triangle {
 

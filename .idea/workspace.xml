@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="746670fb-2904-4b76-b7f1-f2885c321232" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/basicTopics/DataOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section2/basicTopics/DataOutput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ObjectOrientedProgramming/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/basicTopics/DataOutput.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -16,35 +22,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/basicTopics/DataOutput.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="388">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/Triangle.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            <state relative-caret-position="444">
+              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+              <folding>
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#256#257#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#345#346#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +73,12 @@
         <option value="$PROJECT_DIR$/src/test/java/basicTopics/DataOutput.java" />
         <option value="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/Triangle.java" />
         <option value="$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section2/basicTopics/DataOutput.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/Program.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java" />
       </list>
     </option>
   </component>
@@ -126,7 +134,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basicTopics" type="462c0819:PsiDirectoryNode" />
+              <item name="section3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="java-basic-topics" type="b2602c69:ProjectViewProjectNode" />
@@ -134,6 +142,16 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="section3" type="462c0819:PsiDirectoryNode" />
+              <item name="manageInventory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-basic-topics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="section3" type="462c0819:PsiDirectoryNode" />
               <item name="ObjectOrientedProgramming" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -147,7 +165,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559333832474" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559741944811" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -166,13 +184,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CalculateTheAreaOfTriangle">
-    <configuration name="CalculateTheAreaOfTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectOrientedProgramming.CalculateTheAreaOfTriangle" />
+  <component name="RunManager" selected="Application.Program (1)">
+    <configuration name="DataOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section2.basicTopics.DataOutput" />
+      <module name="java-basic-topics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section3.manageInventory.Program" />
       <module name="java-basic-topics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ObjectOrientedProgramming.*" />
+          <option name="PATTERN" value="section3.manageInventory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,17 +205,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="basicTopics.DataOutput" />
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section3.ObjectOrientedProgramming.Program" />
       <module name="java-basic-topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section3.ObjectOrientedProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="DataOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-basic-topics" />
-      <option name="PACKAGE_NAME" value="basicTopics" />
-      <option name="MAIN_CLASS_NAME" value="basicTopics.DataOutput" />
+      <option name="PACKAGE_NAME" value="section2.basicTopics" />
+      <option name="MAIN_CLASS_NAME" value="section2.basicTopics.DataOutput" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -198,7 +229,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculateTheAreaOfTriangle" />
+        <item itemvalue="Application.Program (1)" />
+        <item itemvalue="Application.Program" />
         <item itemvalue="JUnit.DataOutput" />
         <item itemvalue="Application.DataOutput" />
       </list>
@@ -225,6 +257,15 @@
       <configuration name="DataOutput" configurationId="JUnit" />
     </history-entry>
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="75" y="25" width="1845" height="1055" extended-state="6" />
     <editor active="true" />
@@ -242,7 +283,7 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39933258" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4991662" weight="0.32721382" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008338" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="9" />
@@ -297,7 +338,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/basicTopics/DataOutput.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/section2/basicTopics/DataOutput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
@@ -307,20 +355,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/CalculateTheAreaOfTriangle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/section3/ObjectOrientedProgramming/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="388">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="64">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ObjectOrientedProgramming/Triangle.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="486">
+          <caret line="27" column="60" selection-start-line="27" selection-start-column="60" selection-end-line="27" selection-end-column="60" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
