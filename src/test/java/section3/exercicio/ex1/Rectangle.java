@@ -14,7 +14,7 @@ public class Rectangle {
     }
 
     public double diagonal(){
-        return Math.sqrt(width * width + height * height);
+        return Math.sqrt((width * width ) + (height * height));
     }
 
     public String toString(){

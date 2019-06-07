@@ -12,11 +12,11 @@ public class Program {
 
         Rectangle rectangle = new Rectangle();
 
-        System.out.print("Enter width and height: ");
+        System.out.println("Enter width and height: ");
         rectangle.width = sc.nextDouble();
         rectangle.height = sc.nextDouble();
 
-        System.out.println(rectangle.toString());
+        System.out.println(rectangle);
 
         sc.close();
     }
