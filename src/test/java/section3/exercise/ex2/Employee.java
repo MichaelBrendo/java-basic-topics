@@ -1,4 +1,4 @@
-package section3.exercicio.ex2;
+package section3.exercise.ex2;
 
 public class Employee {
 

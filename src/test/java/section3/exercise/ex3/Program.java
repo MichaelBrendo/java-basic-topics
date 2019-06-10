@@ -1,4 +1,4 @@
-package section3.exercicio.ex3;
+package section3.exercise.ex3;
 
 import java.util.Locale;
 import java.util.Scanner;

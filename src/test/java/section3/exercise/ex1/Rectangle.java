@@ -1,4 +1,4 @@
-package section3.exercicio.ex1;
+package section3.exercise.ex1;
 
 public class Rectangle {
 
