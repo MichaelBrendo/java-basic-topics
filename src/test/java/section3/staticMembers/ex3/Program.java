@@ -5,23 +5,24 @@ import java.util.Scanner;
 
 public class Program {
 
+    private static final double IOF = 0.06;
+
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
-        Scanner sc = new Scanner(System.in);
 
-        CurrencyConverter cc = new CurrencyConverter();
+        try (Scanner sc = new Scanner(System.in)) {
 
-        System.out.print("What is the dollar price? ");
-        CurrencyConverter.dollarPrice = sc.nextDouble();
+            CurrencyConverter cc = new CurrencyConverter(IOF);
 
-        System.out.print("How many dollars will be bought? ");
-        CurrencyConverter.buyDollar = sc.nextDouble();
+            System.out.print("What is the dollar price? ");
+            double dollarPrice = sc.nextDouble();
 
+            System.out.print("How many dollars will be bought? ");
+            double buyDollar = sc.nextDouble();
 
-        System.out.printf("Amount to be paid in reais = " + String.format("%.2f", cc.calculateDollar()) );
-
-        sc.close();
+            System.out.printf("Amount to be paid in reais = " + String.format("%.2f", cc.calculateDollar(dollarPrice, buyDollar)));
+        }
 
     }
 }

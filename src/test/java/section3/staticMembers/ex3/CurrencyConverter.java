@@ -2,16 +2,22 @@ package section3.staticMembers.ex3;
 
 public class CurrencyConverter {
 
-    public final double IOF = 6.0 / 100.0;
+    private static final double IOF = 0.06;
 
-    public static double dollarPrice, buyDollar, calc;
+    private final double iof;
 
-    public double calculateDollar() {
+    public CurrencyConverter(double iof) {
 
-        calc = dollarPrice * buyDollar;
+        if (iof < 0) {
+            throw new IllegalArgumentException("IOF cannot be lower than zero!");
+        }
 
-        return calc += calc * IOF;
-
+        this.iof = iof;
     }
 
+    public double calculateDollar(double dollarPrice, double buyDollar) {
+
+        double calc = dollarPrice * buyDollar;
+        return calc + (calc * IOF);
+    }
 }
