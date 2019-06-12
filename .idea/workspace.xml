@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="746670fb-2904-4b76-b7f1-f2885c321232" name="Default Changelist" comment="" />
+    <list default="true" id="746670fb-2904-4b76-b7f1-f2885c321232" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,14 +32,14 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="270">
+              <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding>
                 <element signature="e#459#460#0" expanded="true" />
                 <element signature="e#486#487#0" expanded="true" />
                 <element signature="e#469#470#0" expanded="true" />
                 <element signature="e#501#502#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
                 <element signature="e#666#667#0" expanded="true" />
                 <element signature="e#699#700#0" expanded="true" />
                 <element signature="e#733#734#0" expanded="true" />
@@ -381,6 +383,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1995" y="25" width="1845" height="1055" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49678457" visible="true" weight="0.29238465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -606,14 +609,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="270">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding>
             <element signature="e#459#460#0" expanded="true" />
             <element signature="e#486#487#0" expanded="true" />
             <element signature="e#469#470#0" expanded="true" />
             <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
             <element signature="e#666#667#0" expanded="true" />
             <element signature="e#699#700#0" expanded="true" />
             <element signature="e#733#734#0" expanded="true" />
