@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="746670fb-2904-4b76-b7f1-f2885c321232" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic-topics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic-topics.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/section3/staticMembers/ex3/CurrencyConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/staticMembers/ex3/CurrencyConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/section3/staticMembers/ex3/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/staticMembers/ex3/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section2/basicTopics/DataOutput.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section2/basicTopics/DataOutput.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/ObjectOrientedProgramming/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/ObjectOrientedProgramming/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/ObjectOrientedProgramming/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/ObjectOrientedProgramming/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex1/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex1/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex1/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex1/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex2/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex2/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex2/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex2/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex3/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex3/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex3/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/exercise/ex3/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex1/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex1/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex1/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex1/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex2/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex2/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex2/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex2/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex3/CurrencyConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex3/CurrencyConverter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex3/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/staticMembers/ex3/Program.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,8 +24,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="262">
+              <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +36,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="172">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#469#470#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#593#594#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#699#700#0" expanded="true" />
+                <element signature="e#733#734#0" expanded="true" />
+                <element signature="e#764#765#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -188,6 +181,14 @@
               <item name="section3" type="462c0819:PsiDirectoryNode" />
               <item name="staticMembers" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-basic-topics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="section4" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,7 +202,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560359482417" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560366559605" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -387,7 +388,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1995" y="25" width="1845" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49678457" visible="true" weight="0.29238465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -398,12 +398,12 @@
       <window_info id="Favorites" order="6" sideWeight="0.50321543" side_tool="true" weight="0.29238465" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32829374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32829374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32937366" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4991662" weight="0.32721382" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4991662" visible="true" weight="0.32721382" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5008338" side_tool="true" weight="0.32937366" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32829374" />
@@ -603,8 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        <state relative-caret-position="262">
+          <caret line="37" column="68" selection-start-line="37" selection-start-column="68" selection-end-line="37" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -613,8 +613,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="172">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#699#700#0" expanded="true" />
+            <element signature="e#733#734#0" expanded="true" />
+            <element signature="e#764#765#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

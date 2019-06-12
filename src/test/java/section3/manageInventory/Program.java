@@ -32,7 +32,10 @@ public class Program {
             product.addProducts(quantity);
 
             System.out.println();
-            System.out.println("Update data: " + product);
+            product.setName("Computer");
+            System.out.println("Update data: " + product.getName());
+            product.setPrice(1000.00);
+            System.out.println("Update price: " + product.getPrice());
 
             System.out.println();
             System.out.print("Enter the number of products to be removed from stock: ");

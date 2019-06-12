@@ -20,9 +20,27 @@ public class Product {
     }
 
 
-    public void setName(String name) {
-        this.name = Objects.requireNonNull(name, "Name cannot be null");
+    public String getName() {
+        return name;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public double getPrice(){
+        return price;
+    }
+
+    public void setPrice(Double price) {
+        this.price = price;
+    }
+
+    public int getQuantity() {
+        return quantity;
+    }
+
+
 
     public double totalValueInStock() {
         return price * quantity;
@@ -39,7 +57,7 @@ public class Product {
     public String toString() {
         return name
                 + ", $ "
-                + String.format("%.2f",price)
+                + String.format("%.2f", price)
                 + ", "
                 + quantity
                 + " units, Total: $ "
