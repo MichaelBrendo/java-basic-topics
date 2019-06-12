@@ -19,7 +19,6 @@ public class Product {
         this.price = price;
     }
 
-
     public String getName() {
         return name;
     }
@@ -28,7 +27,7 @@ public class Product {
         this.name = name;
     }
 
-    public double getPrice(){
+    public double getPrice() {
         return price;
     }
 
