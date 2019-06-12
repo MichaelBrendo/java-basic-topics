@@ -1,7 +1,5 @@
 package section3.manageInventory;
 
-import java.util.Objects;
-
 public class Product {
 
     private String name;
