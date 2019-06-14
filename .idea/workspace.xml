@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="746670fb-2904-4b76-b7f1-f2885c321232" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section3/manageInventory/Order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/Program.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section3/manageInventory/Program.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,38 +18,62 @@
     <favorites_list name="java-basic-topics" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/Program.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-              <folding>
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#530#531#0" expanded="true" />
-                <element signature="e#607#608#0" expanded="true" />
-                <element signature="e#650#651#0" expanded="true" />
-                <element signature="e#688#689#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-                <element signature="e#897#898#0" expanded="true" />
-                <element signature="e#934#935#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/Program.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="304">
+                  <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="408">
+                  <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+                  <folding>
+                    <element signature="e#853#854#0" expanded="true" />
+                    <element signature="e#891#892#0" expanded="true" />
+                    <element signature="e#935#936#0" expanded="true" />
+                    <element signature="e#988#989#0" expanded="true" />
+                    <element signature="e#1029#1030#0" expanded="true" />
+                    <element signature="e#1082#1083#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor_ex1.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor_ex2.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor_ex1.png">
+              <provider selected="true" editor-type-id="images" />
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -98,8 +119,8 @@
         <option value="$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java" />
         <option value="$PROJECT_DIR$/src/test/java/section3/manageInventory/Product.java" />
         <option value="$PROJECT_DIR$/src/test/java/section3/manageInventory/Order.java" />
-        <option value="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java" />
         <option value="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/Program.java" />
+        <option value="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java" />
       </list>
     </option>
   </component>
@@ -110,11 +131,22 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="java-basic-topics" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1995" />
-    <option name="y" value="25" />
-    <option name="width" value="1845" />
-    <option name="height" value="1055" />
+    <option name="x" value="2048" />
+    <option name="y" value="27" />
+    <option name="width" value="1835" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -122,6 +154,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,15 +196,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="section3" type="462c0819:PsiDirectoryNode" />
-              <item name="manageInventory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-basic-topics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-basic-topics" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="section3" type="462c0819:PsiDirectoryNode" />
               <item name="staticMembers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,12 +225,21 @@
               <item name="Constructor" type="462c0819:PsiDirectoryNode" />
               <item name="ex1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="java-basic-topics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-basic-topics" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="section4" type="462c0819:PsiDirectoryNode" />
+              <item name="Constructor" type="462c0819:PsiDirectoryNode" />
+              <item name="ex1" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -213,7 +247,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560373888403" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560547828513" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -416,7 +450,7 @@
     <frame x="1995" y="25" width="1845" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49678457" visible="true" weight="0.29238465" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49678457" weight="0.29571983" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -425,7 +459,7 @@
       <window_info id="Favorites" order="6" sideWeight="0.50321543" side_tool="true" weight="0.29238465" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991662" visible="true" weight="0.32829374" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4991662" visible="true" weight="0.32829374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39848813" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,10 +469,10 @@
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32829374" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2495831" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32962757" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
@@ -452,6 +486,10 @@
       </path>
     </expand>
     <select />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
@@ -611,18 +649,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor_ex1.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Order.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor.png">
-      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section3/manageInventory/Program.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -664,31 +696,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/BankingOperations.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="408">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#530#531#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#650#651#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
-            <element signature="e#897#898#0" expanded="true" />
-            <element signature="e#934#935#0" expanded="true" />
+            <element signature="e#853#854#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1082#1083#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="32" column="39" lean-forward="true" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        <state relative-caret-position="304">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor_ex1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources/Constructor_ex2.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">

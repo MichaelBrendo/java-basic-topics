@@ -1,9 +1,8 @@
 package section4.Constructor.ex1;
 
-import java.awt.*;
-
 public class BankingOperations {
 
+    private static final double TAX_WITHDRAW = 5;
     private int accNumber;
     private String holderName;
     private double ccValue;
@@ -40,7 +39,12 @@ public class BankingOperations {
         this.ccValue = ccValue;
     }
 
+    public void deposit(double ccValue){
+        this.ccValue += ccValue;
+    }
 
-
+    public double withdraw(double ccwithdraw){
+        return ccValue = (ccValue - ccwithdraw) - TAX_WITHDRAW;
+    }
 
 }

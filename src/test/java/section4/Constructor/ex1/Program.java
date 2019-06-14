@@ -8,7 +8,7 @@ public class Program {
 
         int accNumber;
         String holderName;
-        double ccValue;
+        double ccValue, ccWithdraw;
         String initialDeposit;
 
         try (Scanner sc = new Scanner(System.in)) {
@@ -38,9 +38,28 @@ public class Program {
             } else {
 
                 System.out.printf("Account data: ");
-                System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName());
+                System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
 
             }
+
+            System.out.printf("");
+            System.out.print("\nEnter a deposit value: ");
+            ccValue = sc.nextDouble();
+
+            bo.deposit(ccValue);
+
+            System.out.printf("");
+            System.out.printf("Update a account data: ");
+            System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
+
+            System.out.print("\nEnter a withdraw value: ");
+            ccWithdraw = sc.nextDouble();
+
+            bo.withdraw(ccWithdraw);
+
+            System.out.printf("");
+            System.out.printf("Update a account data: ");
+            System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
 
 
 
