@@ -8,8 +8,9 @@ public class Program {
 
         int accNumber;
         String holderName;
-        double ccValue, ccWithdraw;
+        double inicialDeposit, ccWithdraw;
         String initialDeposit;
+        Account bo;
 
         try (Scanner sc = new Scanner(System.in)) {
 
@@ -19,38 +20,40 @@ public class Program {
             accNumber = sc.nextInt();
 
             System.out.printf("Enter account holder: ");
-            holderName = sc.next();
+            sc.nextLine();
+            holderName = sc.nextLine();
 
             System.out.printf("Is there a initial deposit (y/n)?: ");
             initialDeposit = sc.next();
 
-            BankingOperations bo = new BankingOperations(accNumber, holderName);
+
 
             if (initialDeposit.equals("y")) {
                 System.out.printf("Enter initial deposit value: : ");
-                ccValue = sc.nextDouble();
+                inicialDeposit = sc.nextDouble();
 
-                bo.setCcValue(ccValue);
+                bo = new Account(accNumber, holderName, inicialDeposit);
 
                 System.out.printf("Account data: ");
-                System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
+                System.out.println(bo);
 
             } else {
 
+                bo = new Account(accNumber, holderName);
                 System.out.printf("Account data: ");
-                System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
+                System.out.println(bo);
 
             }
 
             System.out.printf("");
             System.out.print("\nEnter a deposit value: ");
-            ccValue = sc.nextDouble();
+            inicialDeposit = sc.nextDouble();
 
-            bo.deposit(ccValue);
+            bo.deposit(inicialDeposit);
 
             System.out.printf("");
             System.out.printf("Update a account data: ");
-            System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
+            System.out.printf(String.valueOf(bo));
 
             System.out.print("\nEnter a withdraw value: ");
             ccWithdraw = sc.nextDouble();
@@ -59,11 +62,7 @@ public class Program {
 
             System.out.printf("");
             System.out.printf("Update a account data: ");
-            System.out.printf("Account " + bo.getAccNumber() + " , holder: " + bo.getHolderName() + ", Balance: $ " + bo.getCcValue());
-
-
-
-
+            System.out.println(bo);
 
         }
 
