@@ -38,12 +38,12 @@ public class Program {
         for (int i = 1; i <= n; i++) {
             System.out.print("Enter contract #" + i + " data:");
             System.out.println("DD/MM/YYYY");
-            Date contraDate = sdf.parse(sc.next());
+            Date contractDate = sdf.parse(sc.next());
             System.out.print("Value per hour");
             double valuePerHour = sc.nextDouble();
             System.out.print("Duration (Hours)");
             int hours = sc.nextInt();
-            HourContract contract = new HourContract(contraDate, valuePerHour, hours);
+            HourContract contract = new HourContract(contractDate, valuePerHour, hours);
             worker.addContract(contract);
 
         }

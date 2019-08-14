@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="746670fb-2904-4b76-b7f1-f2885c321232" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition2/application/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition2/entities/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition2/entities/Post.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/entities/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/entities/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/entities/OrderItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/entities/enums/OrderStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/ex/Screenshot1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/ex/Screenshot2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/section8/composition1/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section8/composition1/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/application/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/section8/composition3Ex/application/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/section8/composition1/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/section8/composition1/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/section8/stringBuilder/application/Program.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/section8/stringBuilder/entities/Comment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/section8/stringBuilder/entities/Post.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,25 +59,26 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560547828513" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/section5/Vector/ex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/java/section8/composition3Ex/ex" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java/section5/Vector/ex" />
-      <recent name="$PROJECT_DIR$/src/test/java/section3/staticMembers/ex2" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/test/java/section4/Constructor/ex1/resources" />
       <recent name="$PROJECT_DIR$/src/test/java/section3/exercicio/ex3" />
       <recent name="$PROJECT_DIR$/src/test/java/section3/exercicio/ex2" />
       <recent name="$PROJECT_DIR$/src/test/java/section3/exercicio/ex1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/section8/composition3Ex/ex" />
+      <recent name="$PROJECT_DIR$/src/test/java/section5/Vector/ex" />
+      <recent name="$PROJECT_DIR$/src/test/java/section3/staticMembers/ex2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -83,7 +93,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Program (4)">
+  <component name="RunManager" selected="Application.Program (1)">
+    <configuration name="Program (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="section8.composition3Ex.application.Program" />
+      <module name="java-basic-topics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="section8.composition3Ex.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Program (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="section6.DateAndCalendar.Program" />
       <module name="java-basic-topics" />
@@ -103,19 +126,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="section8.composition1.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="section3.ObjectOrientedProgramming.Program" />
-      <module name="java-basic-topics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="section3.ObjectOrientedProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,19 +280,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Program" />
       <item itemvalue="Application.Program (2)" />
       <item itemvalue="Application.Program (3)" />
       <item itemvalue="Application.Program (4)" />
       <item itemvalue="JUnit.section8.composition2.entities in java-basic-topics" />
+      <item itemvalue="Application.Program (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program (1)" />
         <item itemvalue="Application.Program (4)" />
         <item itemvalue="JUnit.section8.composition2.entities in java-basic-topics" />
         <item itemvalue="Application.Program (3)" />
         <item itemvalue="Application.Program (3)" />
-        <item itemvalue="Application.Program (2)" />
       </list>
     </recent_temporary>
   </component>
